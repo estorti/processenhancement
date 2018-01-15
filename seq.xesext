@@ -1,4 +1,4 @@
-<xesextension name="Sequence" prefix="seq" uri="https://github.com/estorti/processenhancement/seq.xesext">
+<xesextension name="Sequence" prefix="seq" uri="https://raw.githubusercontent.com/estorti/processenhancement/master/seq.xesext">
 <!--
 -->
 <event>
