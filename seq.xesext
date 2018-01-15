@@ -1,0 +1,13 @@
+<xesextension name="Sequence" prefix="seq" uri="https://github.com/estorti/processenhancement/seq.xesext">
+<!--
+-->
+<event>
+<string key="sequence">
+<!-- 
+				The ordered set of the concept:name attribute for all the events executed before the current one in the trace
+			 -->
+<alias mapping="EN" name="sequence"/>
+<alias mapping="IT" name="sequenza"/>
+</string>
+</event>
+</xesextension>
