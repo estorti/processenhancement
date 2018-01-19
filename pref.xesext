@@ -1,0 +1,18 @@
+<xesextension name="Prefix" prefix="pref" uri="https://raw.githubusercontent.com/estorti/processenhancement/master/pref.xesext">
+<!--
+-->
+<event>
+<string key="prefixSet">
+<!-- 
+				The ordered set of the concept:name attribute for all the events executed before the current one in the trace
+			 -->
+<alias mapping="EN" name="prefixSet"/>
+</string>
+<string key="prefixMultiset">
+<!-- 
+				The ordered multiset of the concept:name attribute for all the events executed before the current one in the trace
+			 -->
+<alias mapping="EN" name="prefixMultiset"/>
+</string>
+</event>
+</xesextension>
