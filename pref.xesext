@@ -2,17 +2,11 @@
 <!--
 -->
 <event>
-<string key="prefixSet">
+<string key="prefix">
 <!-- 
-				The ordered set of the concept:name attribute for all the events executed before the current one in the trace
-			 -->
-<alias mapping="EN" name="prefixSet"/>
-</string>
-<string key="prefixMultiset">
-<!-- 
-				The ordered multiset of the concept:name attribute for all the events executed before the current one in the trace
-			 -->
-<alias mapping="EN" name="prefixMultiset"/>
+The ordered set of the concept:name attribute for all the events executed before the current one in the trace
+ -->
+<alias mapping="EN" name="prefix"/>
 </string>
 </event>
 </xesextension>
