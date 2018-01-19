@@ -8,5 +8,11 @@ The ordered set of the concept:name attribute for all the events executed before
  -->
 <alias mapping="EN" name="prefix"/>
 </string>
+<long key="variant">
+<!-- 
+A number indicating how many variants of prefix there are for events with the current concept:name
+ -->
+<alias mapping="EN" name="prefix"/>
+</long>
 </event>
 </xesextension>
